@@ -1,2 +1,2 @@
-# Heart-disease-prediction
-short summary (Data cleaning, analysis, and ML modeling of heart disease dataset.
+This project analises how habbits and symthoms affect the heart.
+Predicting patients that are likely to heart disease.
