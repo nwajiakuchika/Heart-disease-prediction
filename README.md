@@ -1,13 +1,13 @@
-**Heart Disease Prediction Dataset**
+**Heart Disease Prediction Analysis**
 
-*Overview*
+**Overview**
 
-This project analyzes a heart disease dataset to identify keys health indicators associated
+This project analyzes a heart disease dataset to identify key health indicators associated
 with cardiovascular disease.the dataset contains patient medical information, including age.
 blood pressure,cholesterol level,heart rate,and other clinical mesurements used to predict
 the present of heart disease.
 
-*Dataset Features*
+**Dataset Features**
 
 - Age
 - Sex
@@ -24,18 +24,18 @@ the present of heart disease.
 - Thalassemia(thal)
 - Target(Heart disease presence)
 - 
-- *Objectives*
+- **Objectives**
 - 
 - Explore factors associated with heart disease
 - Analyze patient health characteristics
 - Visualize relationship between medical variebles
 - Prepare data for predictive machine learning models
 
-- *Tools used*
+- **Tools used**
 
 - Pandas,Matplotlib,Seaborn,Numpy,Python,and Jupiter notebook
 
-- *Conclusion*
+- **Conclusion**
 
 - This analysis provides insights into important cardiovascular risk factors and serve as
 - a foundation for building heart disease prediction models that can supports early diagnosis
