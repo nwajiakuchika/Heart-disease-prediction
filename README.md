@@ -23,3 +23,27 @@ the present of heart disease.
 - Number of major vessels (ca)
 - Thalassemia(thal)
 - Target(Heart disease presence)
+- 
+- *Objectives*
+- 
+- Explore factors associated with heart disease
+- Analyze patient health characteristics
+- Visualize relationship between medical variebles
+- Prepare data for predictive machine learning models
+
+- *Tools used*
+
+- Pandas,Matplotlib,Seaborn,Numpy,Python,and Jupiter notebook
+
+- *Conclusion*
+
+- This analysis provides insights into important cardiovascular risk factors and serve as
+- a foundation for building heart disease prediction models that can supports early diagnosis
+- and health care decision making.
+
+- **AUTHOR**
+
+- Chika
+
+- 
+- 
